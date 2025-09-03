@@ -20,7 +20,12 @@ Install the required libraries before running the notebook:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-learn
 ```
+<br>
 
+or
+```bash
+pip install -r requirements.txt
+```
 ---
 
 ## 🚀 Workflow
